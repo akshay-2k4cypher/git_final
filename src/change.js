@@ -1,2 +1,2 @@
 console.log('index.js')
-console.log('changed 10')
+console.log('changed 3')
